@@ -1,6 +1,6 @@
 #!/usr/bin/sh
 
-yum install -y git
+sudo yum install -y git
 
 git config --global user.name "Lyon Liang"
 git config --global user.email "lyon.liang12@gmail.com"
